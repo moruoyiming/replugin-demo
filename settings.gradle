@@ -1,0 +1,2 @@
+include ':app',':replugin-host-lib',':replugin-plugin-lib'
+rootProject.name = "app"
